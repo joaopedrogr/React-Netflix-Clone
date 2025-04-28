@@ -16,9 +16,9 @@ The Netflix Clone is a great project to showcase the power of ReactJS, offering 
 
 ## 🖼 Screenshots
 <p>
-  <img src="/src/assets/img/NetflixClone1.png"> 
-  <img src="/src/assets/img/NetflixClone2.png">
-  <img src="/src/assets/img/NetflixClone3.png">
+  <img src="/src/assets/NetflixClone1.png"> 
+  <img src="/src/assets/NetflixClone2.png">
+  <img src="/src/assets/NetflixClone3.png">
 </p>
 
 ### Access the Netflix Clone at: https://react-netflix-clone-dlci.vercel.app/dashboard
