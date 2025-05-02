@@ -49,13 +49,13 @@ To install and run the project locally, follow these steps:
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/Netflix-Clone.git
+git clone https://github.com/your-username/React-Netflix-Clone.git
 ```
 
 ### Navigate to the project folder
 
 ```
-cd Netflix-Clone
+cd React-Netflix-Clone
 ```
 
 ### Install dependencies
